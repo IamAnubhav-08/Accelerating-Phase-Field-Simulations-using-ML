@@ -2,7 +2,7 @@
 An autoencoder+ConvLSTM model to predict microstructure evolution of binary alloys
 
 Following is the workflow of the model - 
-![alt text](https://github.com/IamAnubhav-08/Accelerating-Phase-Field-Simulations-using-ML/blob/main/Workflow.png)
+![Workflow](https://github.com/IamAnubhav-08/Accelerating-Phase-Field-Simulations-using-ML/assets/75220234/c0a3f05e-546c-4a5d-b7a9-6c8aca74549e)
 
 # The Purpose -
 
