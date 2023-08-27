@@ -12,3 +12,9 @@ However, even though taking into account its highly accurate predictions, phase-
 
 Thus using this methodology, we can replace ‘n’ phase-field steps with our machine learning model which will significantly accelerate our
 microstructure simulation and bring down the heavy computation cost.
+
+# Dataset - 
+Let's look at the dataset generated from phase-field
+![dataset](https://github.com/IamAnubhav-08/Accelerating-Phase-Field-Simulations-using-ML/assets/75220234/3f56f71c-fc82-44b9-9dd5-54f106dace17)
+
+Dataset courtesy of - ``` CMS Labs, IITK - generated from Mu2Mech software developed by Albert Linda, Ph.D, IITK ```
